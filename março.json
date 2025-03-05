@@ -1,0 +1,83 @@
+{
+    "month": "Março",
+    "year": 2025,
+    "schedule": {
+        
+       
+        "6": [
+            {"name": "Bruna", "instrument": "Vocal"},
+            {"name": "Carol", "instrument": "Vocal"},
+            {"name": "Hugo", "instrument": "Violão"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "8": [
+            {"name": "Jéssica", "instrument": "Vocal"},
+            {"name": "Carol", "instrument": "Vocal"},
+            {"name": "Vinicius", "instrument": "Violão"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "13": [
+            {"name": "Bruna", "instrument": "Vocal"},
+            {"name": "Jéssica", "instrument": "Vocal"},
+            {"name": "Hugo", "instrument": "Violão"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "15": [
+            {"name": "Feira Gastrônomica", "instrument": "as 15:00 estaremos nos reuninado para Organizar"}
+            
+        ],
+        "16": [
+            {"name": "Jéssica", "instrument": "Vocal"},
+            {"name": "Bruna", "instrument": "Vocal"},
+            {"name": "Vinicius", "instrument": "Violão"},
+            {"name": "Hugo", "instrument": "Guitarra"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "20": [
+            {"name": "Carol", "instrument": "Vocal"},
+            {"name": "Jéssica", "instrument": "Vocal"},
+            {"name": "Hugo", "instrument": "Violão"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "23": [
+            {"name": "Carol", "instrument": "Vocal"},
+            {"name": "Bruna", "instrument": "Vocal"},
+            {"name": "Vinicius", "instrument": "Violão"},
+            {"name": "Hugo", "instrument": "Guitarra"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "27": [
+            {"name": "Carol", "instrument": "Vocal"},
+            {"name": "Bruna", "instrument": "Vocal"},
+            {"name": "Hugo", "instrument": "Violão"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "28": [
+            {"name": "Reunião Geral", "instrument": " não cheguem atrasados"}
+           
+        ],
+        "29": [
+            {"name": "Carol", "instrument": "Vocal"},
+            {"name": "Bruna", "instrument": "Vocal"},
+            {"name": "Jéssica", "instrument": "Vocal"},
+            {"name": "Hugo", "instrument": "Violão"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
+        "30": [
+            {"name": "Carol", "instrument": "Vocal"},
+            {"name": "Bruna", "instrument": "Vocal"},
+            {"name": "Vinicius", "instrument": "Violão"},
+            {"name": "Hugo", "instrument": "Guitarra"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ]
+    }
+}
