@@ -18,10 +18,17 @@
             {"name": "João", "instrument": "Baixo"},
             {"name": "Nivaldo", "instrument": "Bateria"}
         ],
+         "9": [
+            {"name": "Jéssica", "instrument": "Vocal"},
+            {"name": "Vinicius", "instrument": "Violão"},
+            {"name": "Hugo", "instrument": "Guitarra"},
+            {"name": "João", "instrument": "Baixo"},
+            {"name": "Nivaldo", "instrument": "Bateria"}
+        ],
         "13": [
             {"name": "Bruna", "instrument": "Vocal"},
-            {"name": "Jéssica", "instrument": "Vocal"},
-            {"name": "Hugo", "instrument": "Violão"},
+            {"name": "Vinicius", "instrument": "Violão"},
+            {"name": "Hugo", "instrument": "Guitarra"},
             {"name": "João", "instrument": "Baixo"},
             {"name": "Nivaldo", "instrument": "Bateria"}
         ],
