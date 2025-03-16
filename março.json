@@ -38,8 +38,8 @@
         "16": [
             {"name": "Jéssica", "instrument": "Vocal"},
             {"name": "Bruna", "instrument": "Vocal"},
-            {"name": "Vinicius", "instrument": "Violão"},
-            {"name": "Hugo", "instrument": "Guitarra"},
+            {"name": "Hugo", "instrument": "Violão"},
+           
             {"name": "João", "instrument": "Baixo"},
             {"name": "Nivaldo", "instrument": "Bateria"}
         ],
@@ -53,8 +53,8 @@
         "23": [
             {"name": "Carol", "instrument": "Vocal"},
             {"name": "Bruna", "instrument": "Vocal"},
-            {"name": "Vinicius", "instrument": "Violão"},
-            {"name": "Hugo", "instrument": "Guitarra"},
+            {"name": "Hugo", "instrument": "Violão"},
+         
             {"name": "João", "instrument": "Baixo"},
             {"name": "Nivaldo", "instrument": "Bateria"}
         ],
@@ -80,8 +80,8 @@
         "30": [
             {"name": "Carol", "instrument": "Vocal"},
             {"name": "Bruna", "instrument": "Vocal"},
-            {"name": "Vinicius", "instrument": "Violão"},
-            {"name": "Hugo", "instrument": "Guitarra"},
+            {"name": "Hugo", "instrument": "Violão"},
+          
             {"name": "João", "instrument": "Baixo"},
             {"name": "Nivaldo", "instrument": "Bateria"}
         ]
